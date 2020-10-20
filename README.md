@@ -2,17 +2,17 @@
 
 <br/>
 <p align="center">
-	<a href="https://github.com/your-username/your-repository-name">
+	<a href="https://github.com/davidedellagiustina-templates/cute-readme">
 		<img src="imgs/default-logo.png" alt="Logo" height=80">
 	</a>
-	<h3 align="center">Your Repository Name</h3>
+	<h3 align="center">A Cute Readme Template</h3>
 	<p align="center">
-		<img src="https://img.shields.io/static/v1?label=badge&message=data&color=red" alt="data">
-		<img src="https://img.shields.io/static/v1?label=info&message=data&color=green" alt="data">
+		<img src="https://img.shields.io/static/v1?label=&message=template%20repository&color=orange" alt="template repository">
+		<img src="https://img.shields.io/static/v1?label=version&message=1.0&color=blue" alt="v1.0">
 		<br/>
-		A brief description of your project.
+		Template repository for quickly creating cute readmes in your projects.
 		<br/>
-		<a href="https://github.com/your-username/your-repository-name/wiki"><strong>Explore the documentation</strong></a>
+		<!-- <a href="https://github.com/davidedellagiustina-templates/cute-readme/wiki"><strong>Explore the documentation</strong></a> -->
 	</p>
 </p>
 
@@ -22,26 +22,28 @@
 
 - [About the project](#about-the-project)
 - [Getting started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
+  <!-- - [Prerequisites](#prerequisites) -->
+  <!-- - [Installation](#installation) -->
+<!-- - [Usage](#usage) -->
 - [License](#license)
 
 <!-- ABOUT THE PROJECT -->
 
 ## About the project
 
-![Screenshot](imgs/defult-screenshot.png)
+![Screenshot](imgs/default-screenshot.png)
 
 <!-- GETTING STARTED -->
 
 ## Getting started
 
-### Prerequisites
+In order to start using this template, just create a new repository and select this one as a template!
 
-### Installation
+<!-- ### Prerequisites -->
 
-## Usage
+<!-- ### Installation -->
+
+<!-- ## Usage -->
 
 ## License
 
