@@ -9,8 +9,9 @@
 	<p align="center">
 		<img src="https://img.shields.io/static/v1?label=&message=template%20repository&color=orange" alt="template repository">
 		<img src="https://img.shields.io/static/v1?label=version&message=1.0&color=blue" alt="v1.0">
+		<img src="https://img.shields.io/static/v1?label=license&message=cc-by-nc-sa&color=green" alt="cc-by-nc-sa">
 		<br/>
-		Template repository for quickly creating cute readmes in your projects.
+		A simple template for quickly creating cute readmes in your projects.
 		<br/>
 		<!-- <a href="https://github.com/davidedellagiustina-templates/cute-readme/wiki"><strong>Explore the documentation</strong></a> -->
 	</p>
@@ -22,16 +23,17 @@
 
 - [About the project](#about-the-project)
 - [Getting started](#getting-started)
-  <!-- - [Prerequisites](#prerequisites) -->
-  <!-- - [Installation](#installation) -->
-<!-- - [Usage](#usage) -->
 - [License](#license)
+
+![Screenshot](imgs/default-screenshot.png)
 
 <!-- ABOUT THE PROJECT -->
 
 ## About the project
 
-![Screenshot](imgs/default-screenshot.png)
+This repository provides a simple and easy to use template including the following features:
+- a cute and customizable readme;
+- the `cc-by-nc-sa 4.0` license.
 
 <!-- GETTING STARTED -->
 
