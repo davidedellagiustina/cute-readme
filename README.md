@@ -17,6 +17,8 @@
 	</p>
 </p>
 
+![Screenshot](imgs/default-screenshot.png)
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of contents <!-- omit in toc -->
@@ -24,8 +26,6 @@
 - [About the project](#about-the-project)
 - [Getting started](#getting-started)
 - [License](#license)
-
-![Screenshot](imgs/default-screenshot.png)
 
 <!-- ABOUT THE PROJECT -->
 
