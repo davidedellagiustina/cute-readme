@@ -5,7 +5,7 @@
 <br/>
 <p align="center">
     <a href="https://github.com/davidedellagiustina/cute-readme"> <!-- TODO: Adjust repository link -->
-        <img src="./.github/assets/logo.png" alt="Logo" height=80"> <!-- TODO: Use a proper logo -->
+        <img src="./.github/assets/logo.png" alt="Logo" height=80> <!-- TODO: Use a proper logo -->
     </a>
     <h1 align="center">Cute Readme Template</h1> <!-- TODO: Adjust poject name -->
     <p align="center">
